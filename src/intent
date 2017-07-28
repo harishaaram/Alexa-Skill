@@ -1,0 +1,127 @@
+{
+  "intents": [
+    {
+      "name": "AboutIntent",
+      "samples": [
+        "about",
+        "tell me all about tirukkural",
+        "what is it"
+      ],
+      "slots": []
+    },
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.NoIntent",
+      "samples": [
+        "nope"
+      ]
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": [
+        "stop",
+        "stop it"
+      ]
+    },
+    {
+      "name": "AMAZON.YesIntent",
+      "samples": [
+        "yes",
+        "yeah",
+        "yup"
+      ]
+    },
+    {
+      "name": "arattuppalIntent",
+      "samples": [
+        "arattuppal",
+        "virtue",
+        "chapter one",
+        "Dharma"
+      ],
+      "slots": []
+    },
+    {
+      "name": "AttractionIntent",
+      "samples": [
+        "recommend an attraction",
+        "recommend an attraction within {distance} miles",
+        "give me an activity",
+        "give me an activity within {distance} miles"
+      ],
+      "slots": [
+        {
+          "name": "distance",
+          "type": "AMAZON.NUMBER",
+          "samples": []
+        }
+      ]
+    },
+    {
+      "name": "BreakfastIntent",
+      "samples": [
+        "breakfast"
+      ],
+      "slots": []
+    },
+    {
+      "name": "DinnerIntent",
+      "samples": [
+        "dinner"
+      ],
+      "slots": []
+    },
+    {
+      "name": "GoOutIntent",
+      "samples": [
+        "go out",
+        "go outside",
+        "lets go out"
+      ],
+      "slots": []
+    },
+    {
+      "name": "kamattuppalIntent",
+      "samples": [
+        "kamattuppal",
+        "love",
+        "chapter three",
+        "kama"
+      ],
+      "slots": []
+    },
+    {
+      "name": "kuralIntent",
+      "samples": [
+        "kurals",
+        "kural",
+        "couplets"
+      ],
+      "slots": []
+    },
+    {
+      "name": "LunchIntent",
+      "samples": [
+        "lunch"
+      ],
+      "slots": []
+    },
+    {
+      "name": "porutpalIntent",
+      "samples": [
+        "wealth",
+        "porutpal",
+        "chapter two",
+        "artha"
+      ],
+      "slots": []
+    }
+  ]
+}
