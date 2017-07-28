@@ -5,7 +5,7 @@ var languageStrings = {
     'en': {
         'translation': {
             'WELCOME' : "Welcome to Thirukkural! Let's learn some kurals.....ask what is it to know what Thirukkural is, just say... what is it or say.... about........ ",
-            'HELP'    : "To learn a kural, start choosing the section....whether Is it Love.... or wealth....... or virtue........ just say it ",
+            'HELP'    : "To know your kural of the day, start choosing the section....whether Is it Love.... or wealth....... or virtue........ just say it.....",
             'ABOUT'   : "The Thirukkural (literally Sacred Verses), or shortly the Kural, is a classic Tamil sangam literature consisting of 1330 couplets or kurals, dealing with the everyday virtues of an individual............",
             'STOP'    : "Okay, see you next time!"
         }
