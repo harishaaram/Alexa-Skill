@@ -1,5 +1,9 @@
 # Alexa skill application:
 
+# Outcome of the Application:
+
+*A personal assistant that randomly chooses a kural/ couplet based on the chapter of our interest*
+
 ## Thirukkural:
 The Tirukkural or Thirukkural (Tamil: திருக்குறள், literally Sacred Verses), or shortly the Kural, is a classic Tamil sangam literature consisting of 1330 couplets or kurals, dealing with the everyday virtues of an individual.Considered one of the greatest works ever written on ethics and morality, chiefly secular ethics, it is known for its universality and non-denominational nature. It was authored by Valluvar, also known in full as Thiruvalluvar.
 
@@ -35,7 +39,3 @@ The overall organisation of the Kural text is based on seven ideals prescribed f
 - Alexa skill set
 - S3
 - CloudWatch
-
-# Outcome of the Application:
-
-*A personal assistant that randomly chooses a kural/ couplet based on the chapter of our interest*
