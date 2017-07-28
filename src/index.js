@@ -4,7 +4,7 @@
 var languageStrings = {
     'en': {
         'translation': {
-            'WELCOME' : "Welcome to Thirukkural! Let's learn some kurals.....ask what is it to know what Thirukkural is, just say... what is it or say.... about........ ",
+            'WELCOME' : "Welcome to Thirukkural! Let's learn some kurals.....just say what is it.... or say about........ ",
             'HELP'    : "To know your kural of the day, start choosing the section....whether Is it Love.... or wealth....... or virtue........ just say it.....",
             'ABOUT'   : "The Thirukkural (literally Sacred Verses), or shortly the Kural, is a classic Tamil sangam literature consisting of 1330 couplets or kurals, dealing with the everyday virtues of an individual............",
             'STOP'    : "Okay, see you next time!"
@@ -82,7 +82,7 @@ var handlers = {
         var randomkural = kuralArr[kuralIndex];
         var content = kuralAud[kuralIndex]
 
-        var speechOutput = "Kural of the day for you!" + content + randomkural;
+        var speechOutput = "Kural of the day for you!" + content + "The English interpertation is ...." + randomkural;
         this.emit(':tellWithCard', speechOutput,  randomkural)
     },
     'porutpalIntent': function () {
@@ -94,7 +94,7 @@ var handlers = {
         var randomkural = kuralArr[kuralIndex];
         var content = kuralAud[kuralIndex]
 
-        var speechOutput = "Kural of the day for you!" + content + randomkural;
+        var speechOutput = "Kural of the day for you!" + content + "The English interpertation is ...." + randomkural;
         this.emit(':tellWithCard', speechOutput,  randomkural)
     },
     'kamattuppalIntent': function () {
@@ -106,7 +106,7 @@ var handlers = {
         var randomkural = kuralArr[kuralIndex];
         var content = kuralAud[kuralIndex]
 
-        var speechOutput = "Kural of the day for you!" + content + randomkural;
+        var speechOutput = "Kural of the day for you!" + content + "The English interpertation is ...." + randomkural;
         this.emit(':tellWithCard', speechOutput, randomkural)
     },
 

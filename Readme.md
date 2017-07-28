@@ -39,3 +39,4 @@ The overall organisation of the Kural text is based on seven ideals prescribed f
 - Alexa skill set
 - S3
 - CloudWatch
+- echosim.io
