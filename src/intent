@@ -4,7 +4,7 @@
       "name": "AboutIntent",
       "samples": [
         "about",
-        "tell me all about tirukkural",
+        "tell me all about thirukkural",
         "what is it"
       ],
       "slots": []
@@ -41,11 +41,20 @@
     {
       "name": "arattuppalIntent",
       "samples": [
-        "arattuppal",
+        "choose arattuppal",
+        "choose virtue",
+        "choose a kural from virtue section",
+        "choose a kural from arattuppal",
+        "and choose arattuppal",
+        "and choose virtue",
+        "and choose from virtue section",
+        "and choose from arattuppal",
+        "and choose from virtue",
         "virtue",
         "chapter one",
         "section one",
-        "Dharma"
+        "Dharma",
+        "choose Dharma"
       ],
       "slots": []
     },
@@ -53,9 +62,20 @@
       "name": "kamattuppalIntent",
       "samples": [
         "kamattuppal",
+        "choose kamattuppal",
+        "choose a kural from kamattuppal",
+        "choose a kural from love section",
+        "choose a kural from love ",
+        "choose love",
+        "and choose kamattuppal",
+        "and choose from kamattuppal",
+        "and choose from love section",
+        "and choose from love ",
+        "and choose love",
         "love",
         "chapter three",
         "section three",
+        "choose kama",
         "kama"
       ],
       "slots": []
@@ -64,10 +84,20 @@
       "name": "porutpalIntent",
       "samples": [
         "wealth",
+        "choose porutpal",
+        "choose a kural from wealth section",
+        "choose a kural from wealth",
+        "choose a kural from porutpal",
+        "and choose porutpal",
+        "and choose from wealth section",
+        "and choose from wealth",
+        "and choose from porutpal",
+        "and choose wealth",
         "porutpal",
         "chapter two",
         "section two",
-        "artha"
+        "artha",
+        "choose artha"
       ],
       "slots": []
     }

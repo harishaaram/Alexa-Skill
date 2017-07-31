@@ -40,3 +40,12 @@ The overall organisation of the Kural text is based on seven ideals prescribed f
 - S3
 - CloudWatch
 - echosim.io
+
+# references:
+- [https://github.com/alexa/alexa-cookbook/blob/master/labs/LocalRecommendations/src/index.js]
+- [https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs]
+- [https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/speech-synthesis-markup-language-ssml-reference#audio]
+- [https://en.wikipedia.org/wiki/Tirukku%E1%B9%9Ba%E1%B8%B7]
+- [https://www.youtube.com/watch?v=atYubLO92u0]
+- [https://github.com/alexa/skill-sample-nodejs-fact/blob/master/step-by-step/6-publication.md]
+
