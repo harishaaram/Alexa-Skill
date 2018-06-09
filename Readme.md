@@ -1,5 +1,7 @@
 # Alexa skill application:
 
+ - [Published in Amazon developer Community - check it out](https://www.amazon.com/harish-Thirukurral/dp/B074CM552B/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1503190892&sr=1-1&keywords=Thirukurral)
+
 # Outcome of the Application:
 
 *A personal assistant that randomly chooses a kural/ couplet based on the chapter of our interest*
